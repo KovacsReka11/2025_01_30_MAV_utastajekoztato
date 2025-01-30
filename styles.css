@@ -5,3 +5,6 @@ table, th, td {
     font-family: 'Courier New' ; /* betűtípus */
     font-size: 30px; /* betűméret */
   }
+  td {
+    background-color: rgb(171, 129, 212);
+  }
