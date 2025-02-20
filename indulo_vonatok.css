@@ -1,12 +1,24 @@
 
 
-      table, th, td {
-        border: 1px solid;
-        background-color: hotpink;
-        color: rgb(11, 92, 173); /* betűszín */
-        font-family: 'Courier New' ; /* betűtípus */
-        font-size: 30px; /* betűméret */
-      }
-      td {
-        background-color: rgb(171, 129, 212);
-      }
+table, th, td {
+  border: 1px solid;
+  /* background-color: hotpink; */
+  color: rgb(11, 92, 173); /* betűszín */
+  font-family: 'Courier New' ; /* betűtípus */
+  font-size: 30px; /* betűméret */
+}
+
+th {
+  background-color: beige;
+}
+
+tbody tr:nth-child(even) {
+  background-color: rgb(88, 172, 10);
+}
+
+tbody tr:nth-child(odd) {
+  background-color: coral;
+}
+#keso_indulo_vonat {
+  background-color: aqua;
+} 
