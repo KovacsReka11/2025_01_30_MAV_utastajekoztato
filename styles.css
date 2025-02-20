@@ -1,6 +1,6 @@
 table, th, td {
     border: 1px solid;
-    background-color: hotpink;
+    background-color: rgb(248, 111, 180);
     color: rgb(11, 92, 173); /* betűszín */
     font-family: 'Courier New' ; /* betűtípus */
     font-size: 30px; /* betűméret */
