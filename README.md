@@ -13,7 +13,7 @@ Nyisd meg a https://rbencez.github.io/2025_01_30_MAV_utastejekoztato/ linken lé
 ### 🖥️ Élő demó
 
 A projekt megtekinthető az alábi linken:
-[MÁV utastájékoztató](https://github.com/RBenceZ/2025_01_30_MAV_utastejekoztato.git).
+[MÁV utastájékoztató](https://github.com/KovacsReka11/2025_01_30_MAV_utastajekoztato.git).
 
 ### 📌 Alap HTML szerkezet
 ```html
