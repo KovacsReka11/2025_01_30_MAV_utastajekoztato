@@ -2,7 +2,7 @@
 
 Ez a projekt induló és érkező vonatok megjelnítését biztosítja. Az oldal a **html** és **css** segíségével készült. A táblázatba láthatod az információkat.
 
-### ✏️ Jellemzők
+### ❤️ Jellemzők
 - Induló és érkező vonatok listája.
 - Vonatok időpontbeli érkezése, indulása és késését mutatja a táblázat.
 - Sima, egyszerű és letisztult dizájn.
@@ -10,12 +10,12 @@ Ez a projekt induló és érkező vonatok megjelnítését biztosítja. Az oldal
 ### ⚒️ Használat
 Nyisd meg a https://KovacsReka11.github.io/2025_01_30_MAV_utastejekoztato/ linken lévő weboldalt a böngészőben, és láthatod a táblázatot és az abban lévő információkat.
 
-### 🖥️ Élő demó
+### 💋ྀིྀི Élő demó
 
 A projekt megtekinthető az alábi linken:
 [MÁV utastájékoztató](https://github.com/KovacsReka11/2025_01_30_MAV_utastajekoztato.git).
 
-### 📌 Alap HTML szerkezet
+### ִֶ𓂃 ࣪˖ ִֶָ🐇་༘࿐ Alap HTML szerkezet
 ```html
 <!DOCTYPE html>
 <html lang="hu">
@@ -28,7 +28,7 @@ A projekt megtekinthető az alábi linken:
 ```
 
 
-### 📌 Alap CSS szerkezet table
+### 🥰 Alap CSS szerkezet table
 ```css
 table   {
             border: 1px solid;
